@@ -1,8 +1,6 @@
 # AppDevelopment Support
 
-This repo contains information about published apps.
-
-
+Published apps, information and links.
 
 ## [Kinetic Energy Calculator](https://github.com/dsasp/AppDevelopment/wiki/KineticEnergyCalculator)
 
