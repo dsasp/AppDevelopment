@@ -4,7 +4,7 @@ Disclaimer: I am continually improving my apps on a best-can-do basis. App devel
 
 Thank you for your patience
 
-## Available apps, information and links.
+## Available apps
 
 ### [Kinetic Energy Calculator](https://github.com/dsasp/AppDevelopment/wiki/KineticEnergyCalculator) (iOS)
 
