@@ -14,7 +14,7 @@ Platform: iOS 15.5+
 
 ### [Easy3DScore](https://github.com/dsasp/Easy3DScoreSupport/wiki/English-Version)
 
-Easy-to-use archery scoring app. Use your iPhone as scoresheet for 3D archery events or when shooting at target faces indoor or outdoor. Score statistics provided by the app help to analyze your scores.
+Easy-to-use archery scoring app. Use your iPhone as scoresheet for target and 3D archery. Score statistics provided by the app help to analyze your scores.
 
 Platform: iOS 15.5+
 
