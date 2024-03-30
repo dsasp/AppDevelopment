@@ -10,11 +10,11 @@ Thank you for your patience
 
 Free version calculates kinetic energy of an object from mass and velocity. Kinetic Energy Calculator Pro (available via in-app-purchase) adds support for calculating mass from kinetic energy and velocity, and calculating velocity from kinetic energy and mass.
 
-Platform: iOS 15.5+
+Platform: iOS, iPadOS 15.5+
 
 ### [Easy3DScore](https://github.com/dsasp/Easy3DScoreSupport/wiki/English-Version)
 
 Easy-to-use archery scoring app. Use your iPhone as scoresheet for target and 3D archery. Score statistics provided by the app help to analyze your scores.
 
-Platform: iOS 15.5+
+Platform: iOS, iPadOS 15.5+
 
