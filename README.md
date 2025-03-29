@@ -20,7 +20,7 @@ Platform: iOS, iPadOS 15.5+
 
 ### [Archery Tournament Manager](https://github.com/dsasp/AppDevelopment/wiki/Archer-Tournament-Manager)
 
-App to manage archer tournaments.
+App to manage archery tournaments.
 
 Platform: MacOS 13.5+
 
