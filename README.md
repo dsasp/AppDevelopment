@@ -1,4 +1,4 @@
-# AppDevelopment Support
+# App Development Support
 
 Disclaimer: I am continually improving my apps on a best-can-do basis. App development and support is taking place in my spare time, i.e. responses to email or bug fixes may take some time.
 
