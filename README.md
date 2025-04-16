@@ -18,7 +18,8 @@ Easy-to-use archery scoring app. Use your iPhone as scoresheet for target and 3D
 
 Platform: iOS, iPadOS 15.5+
 
-### [Archery Tournament Manager](https://github.com/dsasp/ArcheryTournamentManagerSupport/wiki/Documentation%E2%80%90English)
+
+### [Archery Tournament Manager](https://github.com/dsasp/AppDevelopment/wiki/Archery-Tournament-Manager)
 App to manage archery tournaments.
 
 Platform: MacOS 13.5+
