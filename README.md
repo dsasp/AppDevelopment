@@ -19,12 +19,12 @@ Easy-to-use archery scoring app. Use your iPhone as scoresheet for target and 3D
 Platform: iOS, iPadOS 15.5+
 
 
-### [Archery Tournament Manager](https://github.com/dsasp/AppDevelopment/wiki/Personal-Training-Diary)
-App to manage archery tournaments.
-
-Platform: MacOS 13.5+
-
-### [Personal Training Diary](https://github.com/dsasp/AppDevelopment/wiki/Archery-Tournament-Manager)
+### [Personal Training Diary](https://github.com/dsasp/AppDevelopment/wiki/Personal-Training-Diary)
 App to track personal fitness workouts.
 
 Platform: iOS, iPadOS 26+
+
+### [Archery Tournamanet Manager](https://github.com/dsasp/AppDevelopment/wiki/Archery-Tournament-Manager)
+App to manage archery tournaments.
+
+Platform: MacOS 13.5+
