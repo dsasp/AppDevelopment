@@ -24,3 +24,7 @@ App to manage archery tournaments.
 
 Platform: MacOS 13.5+
 
+### [Personal Training Diary](https://github.com/dsasp/AppDevelopment/wiki/Archery-Tournament-Manager)
+App to manage your personal fitness workouts.
+
+Platform: iOS, iPadOS 26+
